@@ -1,6 +1,6 @@
-# Hack a hack with R
+# Workshops
 
-End to end data science with R, really to help with a data based hackathon.
+A few workshops will go here, they run in your browser, just click "open in colab" and get started. 
 
 ## Usage
 
